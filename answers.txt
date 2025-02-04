@@ -13,3 +13,17 @@
         Represents stakeholders and the customers
         Communicates about the goals of the product
         Decides features and releases
+
+3) The 3 types of meetings during a sprint are:
+        Spring Planning Meeting
+            Determine what to complete in the coming sprint
+            Move stories in sprint scope from backlog
+            Determine story points and assign stories
+            Start sprint
+        Daily Scrum/Standup meeting
+            Short meeting that happens everyday
+            Members discuss work completed and work plan for the day and any blockers
+        Sprint Retrospective Meeting
+            End of sprint
+            Discuss work completed and move incomplete work to backlog
+            Close sprint
