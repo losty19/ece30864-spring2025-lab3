@@ -1,6 +1,15 @@
-1) Two pros of Agile development are: 
+1)  Two pros of Agile development are: 
         Flexibility/Adaptability
         Better collaboration and communication
     Two cons of Agile development are:
         Less predictability
         Too many new features constantly being added
+
+2)  Role and responsibilities of Scrum Master are:
+        Leads daily stand-ups and sprint planning
+        Makes sure team follows agile practices
+    Role and responsibilities of Product Owner are:
+        Defines the backlog
+        Represents stakeholders and the customers
+        Communicates about the goals of the product
+        Decides features and releases
