@@ -27,3 +27,14 @@
             End of sprint
             Discuss work completed and move incomplete work to backlog
             Close sprint
+
+4)  An Epic:
+        Captures a large body of work that can be broken down into several smaller stories
+    A Story:
+        A software system requirement that is expressed in a few short sentences.
+    A Bug:
+        Smallest unit of work
+        A problem that impedes the progress or functionality of work
+    A Task:
+        A unit of work that can be tracked through a workflow
+        Can range from a bug to an epic
